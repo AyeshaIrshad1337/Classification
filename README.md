@@ -1,2 +1,4 @@
 # Classification
-## Day 1
+## Day 1  
+### Installation 
+You have to install python matplotlib seaborn numpy and scikit learn for this chapter
